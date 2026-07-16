@@ -33,6 +33,6 @@ Welcome to my creative space! I specialize in designing modern, minimalist logos
 ---
 
 ## 🛠️ Tools & Specialties
-* **Design Engine:** Canva Pro
+* **Design Engine:** Canva
 * **Focus Areas:** Minimalist Logos, Corporate Identity, Product Mockups, Social Media Ad Design
 * **Design Philosophy:** Clean, modern, and high-impact layouts that attract target customers.
