@@ -10,6 +10,12 @@ Welcome to my creative space! I specialize in designing modern, minimalist logos
 | :---: | :---: |
 | <img src="glow-co-serum-poster.jpg" width="380" /> <br> **Hydrating Face Serum Ad** | <img src="glow-co-launch-teaser.jpg" width="380" /> <br> **"Something Beautiful is Coming" Teaser** |
 
+### 🧴 Corporate Identity Logos
+
+| 🧴 Classic Corporate Logo |
+| :---: |
+| <img src="glow-co-corporate-logo.png" width="350" /> <br> **Glow & Co. Brand Mark** |
+
 ---
 
 ## 🌿 Corporate & Minimalist Logos
@@ -17,6 +23,12 @@ Welcome to my creative space! I specialize in designing modern, minimalist logos
 | 🌿 Leaf & Loop (Sustainable Tech) | ☕ The Daily Grind |
 | :---: | :---: |
 | <img src="leaf-loop-tech-logo.png" width="350" /> <br> **Modern Tech Branding** | <img src="daily-grind-coffee-logo.jpg" width="320" /> <br> **Cafe & Food Branding** |
+
+### 💻 Tech Industry Logos
+
+| 💻 Apex Tech Logo |
+| :---: |
+| <img src="apex-tech-logo.jpg" width="350" /> <br> **Modern Tech Solutions Branding** |
 
 ---
 
