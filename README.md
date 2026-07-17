@@ -1,5 +1,5 @@
 # 🎨 My Graphic Design Portfolio
-
+![](https://komarev.github-profile-counter.glitch.me/counter.png?username=apna-username-yahan-likhen&color=blue)
 Welcome to my creative space! I specialize in designing modern, minimalist logos, visual brand identities, and engaging marketing posters. Below is a curated showcase of my best work created using **Canva**.
 
 ---
