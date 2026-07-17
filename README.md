@@ -1,5 +1,5 @@
 # 🎨 My Graphic Design Portfolio
-![Views](https://badgen.net/github/views/saba-fatima71/My-Graphic-Design-Portfolio?color=blue)
+![Views](https://api.visitorbadge.io/api/visitors?path=saba-fatima71/My-Graphic-Design-Portfolio&label=VIEWS&countColor=%23263159)
 Welcome to my creative space! I specialize in designing modern, minimalist logos, visual brand identities, and engaging marketing posters. Below is a curated showcase of my best work created using **Canva**.
 
 ---
