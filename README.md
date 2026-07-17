@@ -1,5 +1,5 @@
 # 🎨 My Graphic Design Portfolio
-![Views](https://visitor-badge.laobi.icu/badge?page_id=saba-fatima71.My-Graphic-Design-Portfolio)
+
 Welcome to my creative space! I specialize in designing modern, minimalist logos, visual brand identities, and engaging marketing posters. Below is a curated showcase of my best work created using **Canva**.
 
 ---
