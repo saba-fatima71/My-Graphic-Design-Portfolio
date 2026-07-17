@@ -1,5 +1,5 @@
 # 🎨 My Graphic Design Portfolio
-![Views](https://profile-counter.glitch.me/saba-fatima71-portfolio/count.svg)
+![Views](https://img.shields.io/badge/dynamic/json?label=VIEWS&query=%24.value&url=https%3A%2F%2Fapi.visitorbadge.io%2Fapi%2Fvisitors%3Fpath%3Dsaba-fatima71-portfolio%26type%3Dunique&color=blue)
 Welcome to my creative space! I specialize in designing modern, minimalist logos, visual brand identities, and engaging marketing posters. Below is a curated showcase of my best work created using **Canva**.
 
 ---
