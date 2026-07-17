@@ -8,7 +8,7 @@ Welcome to my creative space! I specialize in designing modern, minimalist logos
 
 | 💄 Hello Pretty! (Cosmetics) | 🍔 Classic Burger (Fast Food) | 🍊 Fresh Orange (Beverage) |
 | :---: | :---: | :---: |
-| <img src="cosmetic-lipstick-ad.png" width="260" /> <br> **Lipstick Ad Campaign** | <img src="fastfood-burger-poster.jpg" width="260" /> <br> **50% OFF Promo Poster** | <img src="beverage-orange-juice-ad.jpg" width="260" /> <br> **Natural Juice Product Ad** |
+| <img src="cosmetic-lipstick-ad.png" width="260" /> <br> **Lipstick Ad Campaign** | <img src="fastfood-burger-poster.png" width="260" /> <br> **50% OFF Promo Poster** | <img src="beverage-orange-juice-ad.png" width="260" /> <br> **Natural Juice Product Ad** |
 
 ---
 
